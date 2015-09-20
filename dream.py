@@ -33,7 +33,7 @@ NSROOM_LOOK2	= "As you see around, you see a dead end. Eventhough you can hear t
 
 NSROOM_PUSH 	= "As you push the botton, the floor gives away. You fall down through an endless abyss and seemingly never hitting the bottom. You eventually pass out with sheer anticipation. \n" 
 
-LROOM_INTRO		= "You finally wake up, not knowing how long you have passed out. You feel the soft ground around you, half wondering how you survided the fall. But before you can fully comprehend where you are and what is happening to you, a load roar pierces the silence around you and you hear it approaching you." + PROMPT
+LROOM_INTRO		= "You finally wake up, not knowing how long you have passed out. You feel the soft ground around you, half wondering how you survived the fall. But before you can fully comprehend where you are and what is happening to you, a load roar pierces the silence around you and you hear it approaching you." + PROMPT
 
 LROOM_LOOK1		= "As you look around, you see a small compass and a miners helmet (a helmet with working torch attached to it) around you." + PROMPT
 
@@ -53,7 +53,7 @@ LROOM_LOOK2		= "As you recover from the experience, you see the leopard scamperi
 
 LROOM_NE 		= "As you enter the tunnel you feel the damp, stale air through your hair. As you keep walking through the tunnel, the battery on your helmet dies and the light goes out. But you continue moving groping your way through the tunnel. In this darkness you are surrounded by a swarm of fireflies giving you enough light and warmth in the tunnel. You suddenly feel that someone is watching over you and confidentl keep moving forward where you hit the end of the tunnel but find a large lever on the wall." + PROMPT
 
-LROOM_PULL 		= "As you pull the level, the tunnel opens on both your right and left. There are tracks running across the left-right path. You hear something approaching from your right. As you wait momentarily, you see a large boulder approaching you from the right. Yous only option to survive might be to rush north west." + PROMPT
+LROOM_PULL 		= "As you pull the level, the tunnel opens on both your right and left. There are tracks running across the left-right path. You hear something approaching from your right. As you wait momentarily, you see a large boulder approaching you from the right. Your only option to survive might be to rush north west." + PROMPT
 
 LROOM_NW2 		= "As you keep running, the boulder eventually stops. But you seem to have hit yet another dead end. But you see a small clearing to your south west." + PROMPT
 
