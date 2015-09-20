@@ -21,7 +21,7 @@ HELP 			= "help"
 PROMPT 			= "\n$:> "
 ERROR 			= "Maybe that's not the best thing to right now..." + PROMPT
 
-INTRO 			= "You wake up on you birthday and you find yourself in a strang new land. As you look around, you cannot see anything around due to the lack of light. But you see a small glimmer of light coming from a short distance. As you go towards the light, you realize that it is door left ajar by someone." + PROMPT
+INTRO 			= "You wake up on your birthday and you find yourself in a strange new land. As you look around, you cannot see anything around due to the lack of light. But you see a small glimmer of light coming from a short distance. As you go towards the light, you realize that it is door left ajar by someone." + PROMPT
 
 NSROOM_INTRO 	= "As you enter the room, you see that this is an aftermath of an amazing party. You see HAPPY BIRTHDAY plastered all over the walls. As you look back you see a sign plastered on the door you just came in through." + PROMPT 
 
